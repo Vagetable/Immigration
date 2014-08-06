@@ -3,6 +3,7 @@
   <head>  
     <!--载入完整的CKEditor执行代码-->  
     <script type="text/javascript" src="<%$baseUrl%>/js/ckeditor/ckeditor.js"></script>
+    <script type="text/javascript" src="<%$baseUrl%>/js/ckfinder/ckfinder.js"></script>
   </head> 
   <body>
   <form id="Form" action="<%$baseUrl%>/test/testadd" method="post" accept-charset="utf-8">
