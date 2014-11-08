@@ -10,5 +10,6 @@ class Test extends MY_Controller{
 	public function testadd()
 	{
 		var_dump($this->input->post());
+		
 	}
 }
